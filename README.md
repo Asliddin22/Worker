@@ -1,2 +1,1 @@
-# peremenyaC-lesson
-Lesson2Peremeny
+ add xos for Worker
